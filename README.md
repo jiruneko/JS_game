@@ -1,1 +1,1 @@
-# JS_game
+# JavaScript_Game
